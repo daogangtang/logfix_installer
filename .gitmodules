@@ -1,3 +1,0 @@
-[submodule "lua-daemon"]
-	path = lua-daemon
-	url = https://github.com/smherwig/lua-daemon.git
