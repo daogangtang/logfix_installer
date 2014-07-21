@@ -17,6 +17,13 @@ sudo luarocks install lualogging
 cd ~/GIT
 git clone git://github.com/daogangtang/bamboo-log.git
 sudo ln -sf ~/GIT/bamboo-log/bamboo-log.lua /usr/local/share/lua/5.1/
+cd -
+
+# install bamboo-log-server
+cd ~/GIT
+git clone git://github.com/daogangtang/bamboo-log-server.git
+cd -
+
 
 echo "End OK."
 
